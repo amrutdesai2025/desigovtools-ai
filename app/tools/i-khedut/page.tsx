@@ -85,7 +85,7 @@ export default function IKhedutPage() {
 
             <div className="text-center">
               <a 
-                href="https://ikhedut.gujarat.gov.in/" 
+                href="https://ikhedut.gujarat.gov.in/site/krishivibhag/" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="inline-block bg-gradient-to-r from-emerald-600 to-green-700 text-white px-8 py-3 rounded-lg font-semibold hover:opacity-90 transition-opacity !rounded-button"
