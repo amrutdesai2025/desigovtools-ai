@@ -57,7 +57,7 @@ export default function VoterIdSearchPage() {
 
             <div className="text-center">
               <a 
-                href="https://electoralsearch.in/" 
+                href="https://electoralsearch.eci.gov.in/" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="inline-block bg-gradient-to-r from-purple-600 to-purple-700 text-white px-8 py-3 rounded-lg font-semibold hover:opacity-90 transition-opacity !rounded-button"
