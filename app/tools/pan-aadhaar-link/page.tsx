@@ -58,7 +58,7 @@ export default function PanAadhaarLinkPage() {
 
             <div className="text-center">
               <a 
-                href="https://www1.incometaxindiaefiling.gov.in/e-FilingGS/Services/LinkAadhaarHome.html" 
+                href="https://eportal.incometax.gov.in/iec/foservices/#/pre-login/link-aadhaar-status" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="inline-block bg-gradient-to-r from-blue-600 to-blue-700 text-white px-8 py-3 rounded-lg font-semibold hover:opacity-90 transition-opacity !rounded-button"
