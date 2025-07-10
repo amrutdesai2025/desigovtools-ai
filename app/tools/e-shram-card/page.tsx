@@ -57,7 +57,7 @@ export default function EShramCardPage() {
 
             <div className="text-center">
               <a 
-                href="https://eshram.gov.in/home" 
+                href="https://eshram.gov.in/employment-schemes" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="inline-block bg-gradient-to-r from-indigo-600 to-indigo-700 text-white px-8 py-3 rounded-lg font-semibold hover:opacity-90 transition-opacity !rounded-button"
