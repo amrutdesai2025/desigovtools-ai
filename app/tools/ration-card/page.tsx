@@ -65,7 +65,7 @@ export default function RationCardPage() {
 
             <div className="text-center">
               <a 
-                href="https://nfsa.gov.in/portal/ration-card-details" 
+                href="https://dcs-dof.gujarat.gov.in/ration-card.htm" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="inline-block bg-gradient-to-r from-orange-600 to-orange-700 text-white px-8 py-3 rounded-lg font-semibold hover:opacity-90 transition-opacity !rounded-button"
