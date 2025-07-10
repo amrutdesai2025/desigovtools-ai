@@ -57,7 +57,7 @@ export default function IncomeCertificatePage() {
 
             <div className="text-center">
               <a 
-                href="https://digitalgujarat.gov.in/" 
+                href="https://www.digitalgujarat.gov.in/CitizenNew/ServiceDescriptionNew.aspx" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="inline-block bg-gradient-to-r from-red-600 to-red-700 text-white px-8 py-3 rounded-lg font-semibold hover:opacity-90 transition-opacity !rounded-button"
