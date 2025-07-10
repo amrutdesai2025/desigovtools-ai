@@ -58,7 +58,7 @@ export default function PMKisanPage() {
 
             <div className="text-center">
               <a 
-                href="https://pmkisan.gov.in/BeneficiaryStatus.aspx" 
+                href="https://pmkisan.gov.in/BeneficiaryStatus_New.aspx" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="inline-block bg-gradient-to-r from-green-600 to-green-700 text-white px-8 py-3 rounded-lg font-semibold hover:opacity-90 transition-opacity !rounded-button"
